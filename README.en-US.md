@@ -1,5 +1,14 @@
 # vben3
 
+> vben3 has been archived, please use the latest vben 5.0
+> 
+> Code repository [https://github.com/vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)
+> 
+> Preview address [https://www.vben.pro/](https://www.vben.pro/)
+> 
+> Document address [https://doc.vben.pro/](https://doc.vben.pro/)
+>
+
 English | [简体中文](./README.md)
 
 ## Introduction

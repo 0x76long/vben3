@@ -12,6 +12,16 @@
 </div>
 
 
+> vben3 已归档，请使用最新vben 5.0。
+> 
+> 代码仓库[https://github.com/vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)
+> 
+> 预览地址 [https://www.vben.pro/](https://www.vben.pro/)
+> 
+> 文档地址 [https://doc.vben.pro/](https://doc.vben.pro/)
+>
+
+
 [English](./README.en-US.md) | 简体中文
 
 ## 简介
